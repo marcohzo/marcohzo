@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 i'm Marco Herazo a fullstack Javascript developer
 
 <!--
 **marcohzo/marcohzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
