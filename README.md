@@ -14,9 +14,6 @@
 - JavaScript Async and Storage
 - ES6
 - NPM
-
-## 🌱 Learning: 
-###  I’m currently learning a lot about software development:
 - Express.js
 - API Rest
 - MongoDB
