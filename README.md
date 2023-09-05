@@ -1,5 +1,4 @@
 # Hi there 👋 i'm Marco Herazo a fullstack Javascript developer
-- 🔭 I’m currently working on completing the "Become a Software Developer" bootcamp by Radium Rocket.
 ## ⚙ Technologies 
 - Architecture
 - Scrum
