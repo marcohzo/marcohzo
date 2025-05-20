@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on scaling applications and creating solutions for businesses that need software-driven innovations. 🤝 Feel free to reach out if you’d like to collaborate or if you have an idea in mind! 💡 "If you can imagine it, you can create it.
+🚀 Working on scaling applications and creating solutions for businesses that need software-driven innovations. 🤝 Feel free to reach out if you’d like to collaborate or if you have an idea in mind! 💡 "If you can imagine it, you can create it."
 
 
 ## 🌐 Socials:
